@@ -5,10 +5,11 @@
 <section class="section">
 	<div class="container">
 		<div class="heading">
-			<h1 class="title">Section</h1>
+		<img src="https://spring.io/img/spring-by-pivotal.png">
+			<h1 class="title">Greeting</h1>
 			<h2 class="subtitle">
-				A simple container to divide your page into <strong>sections</strong>,
-				like the one you're currently reading
+				This is the welcome page. I created it as the assignment for SPA lab.
+				This is the spring framework second assignment for this class. 
 			</h2>
 		</div>
 	</div>
