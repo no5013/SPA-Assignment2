@@ -1,9 +1,14 @@
-<nav>
-	<ul>
-		<li><a href="${pageContext.request.contextPath}/">Index</a></li>
-		<li><a href="${pageContext.request.contextPath}/test">Test</a></li>
-<!-- 		<li>Index</li> -->
-<!-- 		<li>Test</li> -->
-	</ul>
-	
-</nav>
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <p>
+        This website created as the assignment2 of SPA Lab.
+      </p>
+      <p>
+        <a class="icon" href="https://github.com/no5013">
+          <i class="fa fa-github"></i>
+        </a>
+      </p>
+    </div>
+  </div>
+</footer>

@@ -14,9 +14,9 @@ public class AppController {
 		return "home";
 	}
 	
-	@RequestMapping(value = { "/test"}, method = RequestMethod.GET)
+	@RequestMapping(value = { "/profile"}, method = RequestMethod.GET)
 	public String testPage(ModelMap model) {
-		return "test";
+		return "profile";
 	}
 	
 }
